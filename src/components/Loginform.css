@@ -1,0 +1,295 @@
+ body{height: 926px;
+    width: 428px;
+    margin-left: 14px;
+    margin-top: 101px;
+    border-radius: 16px; 
+    background-color:
+    #FFFFFF;}
+.cover{
+    height: 926px;
+    width: 428px;
+    margin-left: 14px;
+    margin-top: 101px;
+    border-radius: 16px;
+    background-color:
+    #FFFFFF;}
+    
+   
+
+.logo{
+    position: absolute;
+    height: 120px;
+width: 120px;
+margin-left: 154px;
+margin-right: 154px;
+margin-top: 58px;
+border-radius: 0px;
+
+
+
+
+}
+.welcome{
+    position: absolute;
+    
+width: 212px;
+height: 56px;
+margin-left: 137px;
+margin-top: 160px;
+
+font-family:'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* or 29px */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.035em;
+
+color: #000404;
+}
+.symbol{
+    
+    display: inline;
+    font-family:'Roboto', sans-serif;
+    align-items: center;
+    color:#56A6B1;
+    font-weight: 600;
+    font-size: 24px;
+    letter-spacing: -3.5%;
+    line-height: 30px;
+
+}
+.login{
+    position: absolute;
+width: 84px;
+height: 29px;
+margin-left: 178px;
+margin-top: 252px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000404;
+
+
+}
+.email{
+    position: absolute;
+width: 324px;
+height: 52px;
+margin-left: 51px;
+margin-top: 305px;
+
+background: #F1F1F1;
+border-radius: 8px;
+border:none;
+}
+.password{
+    position: absolute;
+width: 324px;
+height: 52px;
+margin-left: 51px;
+margin-top: 373px;
+
+background: #F1F1F1;
+border-radius: 8px;
+border:none;
+}
+.checkbox{
+
+
+position: absolute;
+position: absolute;
+width: 324px;
+height: 52px;
+margin-left: 51px;
+margin-top: 441px;
+
+width: 14px;
+height: 14px;
+
+background: #D7D7D7;
+
+
+}
+placeholder{
+    position: absolute;
+width: 41px;
+height: 26px;
+margin-left: 16px;
+margin-top: 13px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+/* identical to box height, or 26px */
+
+
+color: rgba(0, 4, 4, 0.7);
+}
+.checkbox1{position: absolute;
+width: 83px;
+height: 19px;
+margin-left: 73px;
+margin-top: 441px;
+
+font-family: 'Roboto', 'sans-serif';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 160%;
+/* or 19px */
+
+
+color: #000404;
+}
+.forgot{
+    font-family: 'Roboto', sans-serif;
+font-size: 12px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+position: absolute;
+width: 106px;
+height: 19px;
+margin-left: 269px;
+margin-top: 441px;
+
+
+font-style: normal;
+
+line-height: 160%;
+/* or 19px */
+
+
+color: #56A6B1;
+
+}
+.btn{
+    position: absolute;
+width: 325px;
+height: 52px;
+margin-left: 51px;
+margin-top: 500px;
+
+background: #56A6B1;
+border-radius: 8px;
+}
+.account{
+    Width:
+177px;
+Height:
+26px;
+margin-Top:
+592px;
+margin-Left:
+51px;
+    position: absolute;
+/* margin-left: 11.92%; */
+margin-right: 46.73%;
+/* margin-top: 63.93%; */
+margin-bottom: 33.26%;
+
+font-family: Roboto', sans-serif';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+/* identical to box height, or 26px */
+
+
+/* Grey/grey-500 */
+
+color: #202020;
+}
+.createacct{
+    position: absolute;
+    height: 26px;
+width: 130px;
+margin-left: 252px;
+margin-right: 56px;
+/* margin-top: 80.77%; */
+margin-Top:
+592px;
+margin-bottom: 11.54%;
+border-radius: nullpx;
+font-family: Sora;
+font-size: 16px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #56A6B1;
+text-decoration: underline;
+
+
+
+
+
+}
+.ellipse1{
+    height: 62px;
+width: 193px;
+margin-left: 130px;
+margin-top: 863px;
+
+position: absolute;
+background: #F96302;
+border-radius: 200px;
+border-radius: 50% / 100%;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+
+
+
+
+
+
+}
+.ellipse2{
+    position: absolute;
+    height: 63px;
+    width: 134px;
+margin-left: 98px;
+margin-top: 865px;
+margin-bottom: 200px;
+border-radius: 50% / 100%;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+background: #56A6B1;
+overflow: wrap;
+
+
+
+}
+
+@media screen and  (max-width: 428px) {
+    body {
+      max-width: 100vh;
+      max-height: 100vh;
+      
+     }
+      
+
+   
+  }
+  @media screen and   (min-width:428px)
+{
+    body {
+      align-items: center;
+      max-height: 100vh;
+      max-width: 100vh;}
+        
+}
